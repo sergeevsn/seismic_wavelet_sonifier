@@ -1,0 +1,6 @@
+Flask
+numpy
+matplotlib
+scipy
+bruges
+
